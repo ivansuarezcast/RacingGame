@@ -1,0 +1,45 @@
+toyota ae-86			1983
+toyota mr-2			1984
+toyota mr-2 w20			1989
+toyota mr-s			1999
+toyota celica
+toyota supra 			1993
+
+nissan skyline gt-x 1971
+nissan silvia s13		1988
+nissan silvia s14		1993
+nissan silvia s15		1999
+nissan skyline gtr		1969
+nissan skyline r32		1987
+nissan skyline r33		1993
+nissan skyline r34		1999
+nissan 350-z			2002
+
+mazda mx-5			1989
+mazda mx-5			1998
+mazda mx-5			2005
+mazda rx-8			2002
+mazda rx-7 fc			1985
+mazda rx-7 fd			1992
+mazda rx-7 veilside			
+
+honda civic type r 		1998
+honda nsx			1991
+
+mitsubishi 3000 gt
+mitsubishi eclipse
+mitsubishi lancer viii
+
+lexus
+
+acura
+
+
+mugen
+nismo
+
+
+
+---music---
+asap rocky - fine whine
+schoolboy - hell of a night

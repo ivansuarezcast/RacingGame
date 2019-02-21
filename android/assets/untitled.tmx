@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="32" tileheight="32" nextobjectid="29">
+ <tileset firstgid="1" name="road" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="tileset.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztz1EKACAIREHr/ofuCkEKVvNgf8WJkCRJkiRJvzQeGD8/Pz8//4l/Jt7NrupPfn5+fn5+fn5+fn5+/l7x8/Pz8/Pz8/Pz8/Pz97ybHT8/f63/1vHz8/Pz80s7LbUrBK8=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="19" x="64" y="1984" width="1568" height="32"/>
+  <object id="20" x="1632" y="512" width="32" height="1472"/>
+  <object id="21" x="32" y="512" width="32" height="1248"/>
+  <object id="22" x="64" y="480" width="1568" height="32"/>
+  <object id="24" x="288" y="736" width="1120" height="32"/>
+  <object id="25" x="288" y="1728" width="1120" height="32"/>
+  <object id="26" x="1376" y="768" width="32" height="960"/>
+  <object id="27" x="288" y="768" width="32" height="960"/>
+  <object id="28" x="448" y="1536"/>
+ </objectgroup>
+</map>
